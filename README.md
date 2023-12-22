@@ -1,2 +1,2 @@
-# home-server
-Documenation for current home server setup
+# Home Server
+Documentation for current home server setup
